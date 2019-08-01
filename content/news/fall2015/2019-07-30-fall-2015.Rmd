@@ -1,0 +1,23 @@
+---
+title: Fall 2015
+author: trisha
+date: '2015-12-17'
+slug: fall-2015
+categories: []
+tags: []
+subtitle: ''
+summary: 'Teaching Assistantships and talks'
+authors: []
+lastmod: '2015-12-17T13:58:48+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
++ I presented a speed talk titled "Conservation & Management in the Tropics" at the Duke University Joint Ecology/Marine Symposium on November 13th,14th 2015 at the Duke Marine Lab, Beaufort, NC.
+
++ I presented a poster titled ["Do plants have enemies? Their effects on plant recruitment in an Afrotropical forest system"](https://drive.google.com/file/d/1DJFW_oTYVmScJJEf4tIAd4WnAdMhqYOU/view?usp=sharing) at the Student Conference on Conservation Science, New York 2015. This was a great opportunity to show case my work to a wide audience working towards conservation in so many different parts of the world. 
+
++ I have been awarded one of four teaching assistantship for the Fundamental of GIS graduate level course under Dr. Patrick Halpin & Dr. Peter Harrell. I am looking forward to this opportunity to engage students and strengthen my geospatial skill set! 

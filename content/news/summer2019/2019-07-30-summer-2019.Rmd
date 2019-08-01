@@ -1,0 +1,25 @@
+---
+title: Summer 2019
+author: trisha
+date: '2019-07-30'
+slug: summer-2019
+categories: []
+tags: []
+subtitle: ''
+summary: 'Moving to the UK to start my doctorate studies'
+authors: []
+lastmod: '2019-07-30T16:23:33+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+![](/news/summer2019/2019-07-30-summer-2019_files/Screen Shot 2019-07-29 at 4.20.17 PM.png)
+
+I have been accepted into the DPhil Geography and the Environment program at the University of Oxford, UK. I will be advised by Dr. Yadvinder Malhi and my proposed research is prioritization of restoration methodologies in tropical forest systems by understanding the tradeoffs and synergies between climate change mitigation, water provision and biodiversity value, under future climate change scenarios.
+
+![](/news/summer2019/2019-07-30-summer-2019_files/Screen Shot 2019-07-30 at 4.25.37 PM.png)
+
+Also, I am the Oxford Indira Gandhi 2019 Scholar at the Oxford India Center for Sustainable Development, Somerville College, University of Oxford. I am very thankful for this prestigious fellowship!

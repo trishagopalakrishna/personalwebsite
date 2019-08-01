@@ -1,0 +1,23 @@
+---
+title: Summer 2016
+author: trisha
+date: '2016-05-15'
+slug: summer-2016
+categories: []
+tags: []
+subtitle: ''
+summary: 'Graduation and moving to the DC metro area'
+authors: []
+lastmod: '2016-05-15T15:49:51+05:30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
++ I will be moving to Arlington, VA to start a science internship with the Center for Sustanability Science, The Nature Conservancy! I will be involved in two projects- understanding knowledge diffusion/sharing within and beyond TNC being the first and estimating aboveground live grassland biomass in the southern Andean mountains of Peru.
+
+![](/news/summer2016/2019-07-30-summer-2016_files/tnclogo.png)
+
++ I graduated with a Master of Environmental Management, Ecosystem Science and Conservation concentration! I also managed to earn the GIS certificate. I am so happy that I went to Duke and graduated!
