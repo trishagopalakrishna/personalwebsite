@@ -37,6 +37,14 @@ __2017__
 
 1. Griscom, B. W., Adams, J., Ellis, P. W., Houghton, R. A., Lomax, G., Miteva, D. A., Schlesinger, W.H., Shoch, D., Siikamäki, J.V., Smith, P., Woodbury, P., Zganjar, C., Blackman, A., Campari, J., Conant, R.T., Delgado, C., Elias, P., __Gopalakrishna, T.__,... & Fargione, J. (2017). [_Natural climate solutions_](https://www.pnas.org/content/114/44/11645) Proceedings of the National Academy of Sciences, 114(44), 11645-11650.
 
-2. Ramesh, V.,__Gopalakrishna, T.__, Barve, S., & Melnick, D. J. (2017). _Finer spatial resolution improves accuracy of species distribution models in heterogeneous landscapes-A response to Praveen J._ Biological Conservation, 213, 247-248.
+2. Ramesh, V.,__Gopalakrishna, T.__, Barve, S., & Melnick, D. J. (2017). [_IUCN greatly underestimates threat levels of endemic birds in the Western Ghats._](https://www.sciencedirect.com/science/article/abs/pii/S0006320716310588) Biological Conservation, 210, 205-221
 
-3. Ramesh, V.,__Gopalakrishna, T.__, Barve, S., & Melnick, D. J. (2017). [_IUCN greatly underestimates threat levels of endemic birds in the Western Ghats._](https://www.sciencedirect.com/science/article/abs/pii/S0006320716310588) Biological Conservation, 210, 205-221
+  __Commentary__
+
+Ramesh, V.,__Gopalakrishna, T.__, Barve, S., & Melnick, D. J. (2017). _Finer spatial resolution improves accuracy of species distribution models in heterogeneous landscapes-A response to Praveen J._ Biological Conservation, 213, 247-248.
+ 
+  __Manuscripts in preparation, review, revision and/or in press__
+
+1. Ramesh, V., SP Vijaykumar, __Gopalakrishna, T.__ & Shanker, K. [_Determining levels of cryptic diversity within the endemic frog genera, Indirana and Walkerana of the Western Ghats._] (in review)
+
+2. Cook-Patton, S., __Gopalakrishna, T.__ &Amarjangal, O. [_Reforestation opportunity in the United States_] (in prep)
