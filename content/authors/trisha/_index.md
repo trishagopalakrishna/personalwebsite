@@ -52,5 +52,5 @@ My overall goal is to develop the science for prioritization of successful and s
 
 I am currently a Probationer Research Student (PRS) in the [DPhil Geography and Environment program at the University of Oxford](https://www.geog.ox.ac.uk/), advised by [Dr. Yadvinder Malhi](https://www.geog.ox.ac.uk/staff/ymalhi.html).  I am also the Oxford-Indira Gandhi 2019 Scholar at the [Oxford India Center for Sustainable Development](https://www.some.ox.ac.uk/research/oxford-india-centre/), Somerville College, University of Oxford. 
 
-I am a Master of Environmental Management (MEM) graduate- Ecosystem Science and Conservation concentration and earned the GIS certificate from the [Nicholas School of the Environment, Duke University](https://nicholas.duke.edu/), in 2016. I was part of [Dr. John Poulsen's tropical ecology lab](https://www.tropicalecology.us/), co-advised by Dr. Poulsen and [Dr. Dean Urban](https://nicholas.duke.edu/people/faculty/urban). 
+I am a Master of Environmental Management (MEM) graduate- Ecosystem Science and Conservation concentration and earned the GIS certificate from the [Nicholas School of the Environment, Duke University](https://nicholas.duke.edu/), in 2016. I was part of [John Poulsen's tropical ecology lab](https://www.tropicalecology.us/), co-advised by John and [Dean Urban](https://nicholas.duke.edu/people/faculty/urban). 
 
