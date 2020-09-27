@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>/Users/Trishagopalakrishna/Documents/GitHub/Trishagopalakrishna.github.io | Trisha Gopalakrishna</title>
-    <link>https://trishagopalakrishna.github.io/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/</link>
-      <atom:link href="https://trishagopalakrishna.github.io/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/</link>
+      <atom:link href="/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>/Users/Trishagopalakrishna/Documents/GitHub/Trishagopalakrishna.github.io</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://trishagopalakrishna.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>/Users/Trishagopalakrishna/Documents/GitHub/Trishagopalakrishna.github.io</title>
-      <link>https://trishagopalakrishna.github.io/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/</link>
+      <link>/users/trishagopalakrishna/documents/github/trishagopalakrishna.github.io/</link>
     </image>
     
   </channel>
