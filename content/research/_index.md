@@ -23,23 +23,9 @@ My research includes multiple themes of applied and collaborative work, intendin
 
 __Current Research__
 
-For my doctoral research, I aim to inform restoration of tropical forest systems, while maintaining biodiversity, water services and opportunities for climate change mitigation, adaptation and resilience. I am interested in restoration that requires land use change (non-forest to forest cover at various thresholds of tree cover) and within degraded forest systems.
+For my doctoral research, I am researching the potential of reforestation to mitigate climate change and provide biodiversity and water services, in India. I have proposed to answer three main questions 1) where is refoestation potential in India, without compromising food security and biodiversity, 2) what are the trade-offs and synergies between carbon sequestration, water supply and habitat for biodiversity from reforestation activities and 3) what are the socio-political challenges for implementation of reforestation schemes and what are the opportunities, despite these challenges. 
 
-  _1. Tradeoffs and synergies ecosystem services_
-  
-I am broadly interested in determining the climate change mitigation, biodiversity and water related services received on a variety of restoration activities, focusing largely on the wins and losses between these services, associated with each chosen restoration activity. 
-
-  _2.  Changes in above services under future climate change scenarios_
-  
-I am interested in understanding the changes in above ecosystem services under future climate change scenarios, to inform restoration efforts leading to adaptive and resilient forest systems that continue to provide services that we depend on. 
-
-__Previous Research__
-
-_1.Climate change mitigation_
-
-My previous research at the Nature Conservancy primarily focused on [Natural Climate Solutions](https://www.nature.org/en-us/what-we-do/our-insights/perspectives/natural-climate-solutions/). I primarily focused on quantifying the climate change mitigation potential from restoration requiring land use change, (via natural regeneration) globally, in the States and in India. Within degraded forest systems, I worked on estimating climate change mitigation potential in selectively logged tropical forests, with emphasis on assessment and limitation of damage during the various harvesting operations, using the Reduced Impact Logging for Carbon protocol.
+Due to the ongoing COVID-19 pandemic, I am revising my proposed questions as I was supposed to completed extensive fieldwork. Hence, questions 2 & 3 will be modified. 
 
 
-_2.Biodiversity_
-
-My previous research as a Master’s student included estimation of the composition, diversity and structure of tropical forests under anthropogenic pressures of selective logging and bushmeat hunting, in Central Africa. I also completed research on the determining habitats of endemic birds of the Western Ghats (using species distribution modeling), needed for IUCN red listing purposes and explored cryptic species of two endemic frog genera of the Western Ghats. 
+ 

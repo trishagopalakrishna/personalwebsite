@@ -17,6 +17,11 @@ image:
 projects: []
 
 ---
+__2020__
+
+1. Ramesh, V., Vijayakumar, S. P., __Gopalakrishna, T.__, Jayarajan, A., & Shanker, K. (2020).[_Determining levels of cryptic diversity within the endemic frog genera, Indirana and Walkerana, of the Western Ghats, India_](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237431). PloS one, 15(9), e0237431.
+{{% staticref "files/frog_paper.pdf" "newtab" %}}Download PDF{{% /staticref %}}
+
 __2019__
 
 1. Putz, F. E., Baker, T., Griscom, B. W., __Gopalakrishna, T.__, Roopsind, A., Umunay, P. M., ... & Ellis, P. W. (2019). [_Intact forest in selective logging landscapes in the tropics_](https://www.frontiersin.org/articles/10.3389/ffgc.2019.00030/full). Frontiers in Forests and Global Change, 2, 30.
@@ -54,6 +59,7 @@ Ramesh, V.,__Gopalakrishna, T.__, Barve, S., & Melnick, D. J. (2017). _Finer spa
  
   __Manuscripts in preparation, review, revision and/or in press__
 
-1. Ramesh, V., SP Vijaykumar, __Gopalakrishna, T.__ & Shanker, K. [_Determining levels of cryptic diversity within the endemic frog genera, Indirana and Walkerana of the Western Ghats._] (in review)
+1. Cook-Patton, S., __Gopalakrishna, T.*__ ... & Fargione, J. E.[_Spatial action maps to restore forest cover and mitigate climate change in the contigous United States_] (in review)
 
-2. Cook-Patton, S., __Gopalakrishna, T.__ & Amarjangal, O. [_Reforestation opportunity in the United States_] (in prep)
+
+*- refers to shared first authorship

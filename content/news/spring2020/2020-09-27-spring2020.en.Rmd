@@ -1,0 +1,22 @@
+---
+title: spring 2020
+author: trisha
+date: '2020-09-27'
+slug: spring2020
+categories: []
+tags: []
+subtitle: ''
+summary: 'Getting settled in Oxford and transfer of status'
+authors: []
+lastmod: '2020-09-27T15:58:36+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I matriculated at Somerville College making me a student of Oxford officially. The first term whizzed by very quickly as I got involved in the university life and department classes.
+
+As the COVID-19 pandemic related lockdowns started being imposed in the UK, I successfully transfered status from a Probationer Research Student to a DPhil candidate, assessed by [_Professor Natalie Seddon_](https://www.zoo.ox.ac.uk/people/professor-nathalie-seddon) and [_Dr. David Bauman_]. 

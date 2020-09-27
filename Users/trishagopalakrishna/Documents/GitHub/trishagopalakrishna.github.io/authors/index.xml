@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Trisha Gopalakrishna</title>
+    <link>https://trishagopalakrishna.github.io/authors/</link>
+      <atom:link href="https://trishagopalakrishna.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://trishagopalakrishna.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://trishagopalakrishna.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>admin</title>
+      <link>https://trishagopalakrishna.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://trishagopalakrishna.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://trishagopalakrishna.github.io/authors/trisha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://trishagopalakrishna.github.io/authors/trisha/</guid>
+      <description>&lt;p&gt;I am an ecologist with broad interests in climate change mitigation, adaptation and resilience of forests and open ecosystems, such as grasslands and savannahs in the tropics. I do applied research with the aim of supporting policy and decision making, at multiple scales of governance. My background is varied ranging from understanding how social networks help in knowledge diffusion, understanding changes in biodiversity under varying anthropogenic pressures of selective hunting and logging and to most recently understanding the potential of forests to mitigate climate change.&lt;/p&gt;
+&lt;p&gt;Currently, I am a DPhil candidate at the &lt;a href=&#34;https://www.geog.ox.ac.uk/&#34;&gt;School of Geography and the Environment,University of Oxford&lt;/a&gt;, advised by &lt;a href=&#34;https://www.geog.ox.ac.uk/staff/ymalhi.html&#34;&gt;Yadvinder Malhi&lt;/a&gt;.  I am also the &lt;a href=&#34;https://www.some.ox.ac.uk/trisha_gopalakrishna/&#34;&gt;Oxford-Indira Gandhi 2019 Scholar&lt;/a&gt; at the &lt;a href=&#34;https://www.some.ox.ac.uk/research/oxford-india-centre/&#34;&gt;Oxford India Center for Sustainable Development&lt;/a&gt;, Somerville College, University of Oxford.&lt;/p&gt;
+&lt;p&gt;My proposed doctoral research is about the potential of reforestation to mitigate climate change and the trade-offs and synergies with biodiversity and water services, in India. I primarily use remote sensing, geographic information systems (GIS) and statistical analysis in my research. My overall goal is to support successful and scalable restoration tools and techniques in tropical forest systems, that will provide multiple ecosystem services, under future climate change scenarios.&lt;/p&gt;
+&lt;p&gt;I am a Master of Environmental Management (MEM) graduate- Ecosystem Science and Conservation concentration and earned the GIS certificate from the &lt;a href=&#34;https://nicholas.duke.edu/&#34;&gt;Nicholas School of the Environment, Duke University&lt;/a&gt;, in 2016. I was part of &lt;a href=&#34;https://www.tropicalecology.us/&#34;&gt;John Poulsen&amp;rsquo;s tropical ecology lab&lt;/a&gt;, co-advised by John and &lt;a href=&#34;https://nicholas.duke.edu/people/faculty/urban&#34;&gt;Dean Urban&lt;/a&gt;. Before starting my doctorate, I worked as an Applied Scientist in the Global Climate Change Program at &lt;a href=&#34;https://www.nature.org/en-us/&#34;&gt;The Nature Conservancy&lt;/a&gt;, an international environmental non-profit, in Washington D.C.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

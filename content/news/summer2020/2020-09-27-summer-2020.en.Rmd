@@ -1,0 +1,24 @@
+---
+title: summer 2020
+author: trisha
+date: '2020-09-27'
+slug: summer-2020
+categories: []
+tags: []
+subtitle: 'Working at home due to COVID-19 and taking part in online conferences'
+summary: ''
+authors: []
+lastmod: '2020-09-27T16:06:21+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+I have had to rethink my proposed DPhil research questions due to the ongoing COVID-19 pandemic, as I was supposed to carry out fieldwork in India. As a consequence, I am currently reviewing my proposal.However, I have made strides with the analyses of my first dissertation chapter, which used GIS, remote sensing and statistical analyses. 
+
+I presented an academic poster at the [_NbS Digital Dialogues 2020_](https://www.naturebasedsolutionsoxford.org/nbs-digital-dialogues/), a virtual conference hosted by the Nature based Solutions Initiative, University of Oxford, about the importance of India's semi-arid savannahs. 
+
+I ![](/summer2020/2020-09-27-summer-2020.en_files/1_Trisha_Gopalakrishna_revised.pdf)

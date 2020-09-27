@@ -46,7 +46,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am an ecologist with broad interests in climate change mitigation, adaptation and resilience of forests and open ecosystems, such as grasslands and savannahs in the tropics. I do applied research with the aim of supporting policy and decision making, at multiple scales of governance. My background is varied ranging from understanding how social networks help in knowledge diffusion, understanding changes in biodiversity under varying anthropogenic pressures of selective hunting and logging and most recently, understanding the potential of forests to mitigate climate change.
+I am an ecologist with broad interests in climate change mitigation, adaptation and resilience of forests and open ecosystems, such as grasslands and savannahs in the tropics. I do applied research with the aim of supporting policy and decision making, at multiple scales of governance. My background is varied ranging from understanding how social networks help in knowledge diffusion, understanding changes in biodiversity under varying anthropogenic pressures of selective hunting and logging and to most recently understanding the potential of forests to mitigate climate change.
 
 Currently, I am a DPhil candidate at the [School of Geography and the Environment,University of Oxford](https://www.geog.ox.ac.uk/), advised by [Yadvinder Malhi](https://www.geog.ox.ac.uk/staff/ymalhi.html).  I am also the [Oxford-Indira Gandhi 2019 Scholar](https://www.some.ox.ac.uk/trisha_gopalakrishna/) at the [Oxford India Center for Sustainable Development](https://www.some.ox.ac.uk/research/oxford-india-centre/), Somerville College, University of Oxford. 
 
